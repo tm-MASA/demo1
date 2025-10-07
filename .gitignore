@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Archives and backups
+workspace_backup.zip
+nasita_minimal.zip
+
+# Editor
+.vscode/
+.idea/
